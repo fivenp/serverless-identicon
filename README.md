@@ -1,6 +1,6 @@
 # serverless-identicon
-[![serverless][badge-serverless]](http://www.serverless.com)
-[![language][badge-language]](http://golang.org)
-[![license][badge-license]](LICENSE)
+[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
+[![PyPI - License](https://img.shields.io/pypi/l/Django.svg)](LICENSE)
+
 
 [go-identicon](https://github.com/fivenp/go-identicon) for AWS Lambda via Serverless Framework.
