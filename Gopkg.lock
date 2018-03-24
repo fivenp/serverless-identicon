@@ -9,14 +9,20 @@
     "lambda/messages",
     "lambdacontext"
   ]
-  revision = "6e2e37798efbb1dfd8e9c6681702e683a6046517"
-  version = "v1.0.1"
+  revision = "fafa7e49388b8991caf99308e80655ba91816b72"
+  version = "v1.1.0"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/dlion/hex2rgb"
+  packages = ["."]
+  revision = "1fcd5e84951d134121118566045d9aa696c3334a"
 
 [[projects]]
   branch = "master"
   name = "github.com/fivenp/go-identicon"
   packages = ["."]
-  revision = "0943247cd1f746d7a8621bfc0a6b02cc2560f083"
+  revision = "3fbe2ff7477383cf8ec90d088964c738a2a7f229"
 
 [[projects]]
   name = "github.com/fogleman/gg"
